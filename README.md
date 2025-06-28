@@ -1,0 +1,10 @@
+THIS PROJECT IS SIMPLE LIVE CAMERA DETECTING THE MOBILE PHONES
+
+REQUIREMENT :  WEB CAM 
+
+YOU NEED TO INSTALL THIS PIP FILES,  OR CHECK YOUTUBE HOW TO INSTALL AN PIP FILE IN VISUAL STUDIO CODE
+
+pip install ultralytics
+pip install pygame
+pip install opencv-python pygame
+pip install flask
